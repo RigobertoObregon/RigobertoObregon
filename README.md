@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RigobertoObregon
-- 👀 I’m interested in Data Science techniques, databases, datawarehouses, business intelligence.
+- 👀 I’m interested in Data Science techniques, databases, data warehouses, business intelligence.
 - 🌱 I’m currently learning Python. (10/2022)
 - 💞️ I’m looking to collaborate on companies wich enjoy teamwork, learning, sharing knowledge, life with a porpouse.
 - 📫 How to reach me: rigos1983@gmail.com
